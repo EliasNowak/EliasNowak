@@ -1,16 +1,18 @@
-## Hi there 👋
+# Elias Nowak
 
-<!--
-**EliasNowak/EliasNowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student and Embedded Software Engineer based in Vienna.
 
-Here are some ideas to get you started:
+I build embedded systems, wearables, and tools at the intersection of
+hardware, firmware, sensing, and digital health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building [CareLoop](https://github.com/careloop-labs) — an wearable platform combining physiological signals and personal environmental exposure on a shared timeline.
+
+## About me
+
+More about my work, projects, and background:
+
+→ [eliasnowak.github.io](https://eliasnowak.github.io/)
+
+## Interests
+
+Embedded Systems · Wearables · Digital Health · Sensors · Edge AI · Startups
